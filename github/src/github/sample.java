@@ -11,5 +11,8 @@ public class sample
 		int c=30;
 		int d=40;
 		System.out.println(c+d);
+		int e=50;
+		int f=60;
+		System.out.println(e+f);
 	}
 }
